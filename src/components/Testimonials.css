@@ -1,0 +1,22 @@
+.testimonial-container{
+    border: 1px solid red;
+    width: 400px;
+    height: 200px;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    margin: 10px;
+    align-items: center;
+}
+
+.testimonial-img{
+    width: 90px;
+    border-radius: 50%;
+}
+
+.testimonial-name{
+    font-size: 1.3rem;
+    text-align: center;
+}
